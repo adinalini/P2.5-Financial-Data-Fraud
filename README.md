@@ -5,6 +5,7 @@ As the world moves toward a cashless, cloud-based reality, the banking sector is
 In machine learning, fraud is viewed as a classification problem, and when you’re dealing with imbalanced data, it means the issue to be predicted is in the minority. As a result, the predictive model will often struggle to produce real business value from the data, and it can sometimes get it wrong.
 
 Group Name: Lost Fox
+
 Team Members: Aditya, Nithish
 
 Access and play with the notebook directly on deepnote: https://beta.deepnote.com/project/b17d9daf-6cac-4e1b-afaa-ed54dd6fc754
